@@ -20,13 +20,4 @@ Ceylon Wood Works is a comprehensive web-based furniture management system that 
 - Database: MySQL
 - Additional: JavaScript, jQuery
 
-## 📋 System Requirements
-- PHP 7.4+
-- MySQL 5.7+
-- Web Server (Apache/Nginx)
-- Modern Web Browser
 
-## 🚀 Installation
-1. Clone the repository
-```bash
-git clone https://github.com/yourusername/ceylon-wood-works.git
